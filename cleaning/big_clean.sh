@@ -21,3 +21,5 @@ done
 cd ..
 
 tar -zcf "cleaned_$tararc" $tarname
+
+mv "cleaned_$tararc" $here
